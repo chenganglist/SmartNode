@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"csis.stationInfo"},{"v":1,"unique":true,"key":{"stationID":1.0},"name":"stationID_1","ns":"csis.stationInfo"},{"v":1,"unique":true,"key":{"lockID":1.0},"name":"lockID_1","ns":"csis.stationInfo"},{"v":1,"unique":true,"key":{"address":1.0},"name":"address_1","ns":"csis.stationInfo"}]}

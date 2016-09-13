@@ -1,0 +1,7 @@
+applyCompanyID,applyCompany,applyPersonID,applyPerson,applyTime,applyContent,approveCompanyID,approveCompany,approvePersonID,approvePerson,approveTime,approveResult
+C101,A公司,P101,赵一,1468206240,申请,C107,G公司,P107,王一,1468209240,审核中
+C102,B公司,P102,赵二,1468206241,申请,C108,H公司,P108,王二,1468209241,拒绝
+C103,C公司,P103,赵三,1468206242,申请,C109,I公司,P109,王三,1468209242,同意
+C104,D公司,P104,赵四,1468206243,申请,C110,J公司,P110,王四,1468209243,审核中
+C105,E公司,P105,赵五,1468206244,申请,C111,K公司,P111,王五,1468209244,拒绝
+C106,F公司,P106,赵六,1468206245,申请,C112,L公司,P112,王六,1468209245,同意

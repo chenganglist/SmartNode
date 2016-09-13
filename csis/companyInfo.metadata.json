@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"csis.companyInfo"},{"v":1,"key":{"companyID":1.0},"name":"companyID_1","ns":"csis.companyInfo"}]}

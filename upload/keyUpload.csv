@@ -1,0 +1,4 @@
+keyID,keyName,keyOriginID,keyCompany,managementProvince,managementCity,managementArea,zoneAuth,stationAuth
+K00000000001,钥匙1,A0123,A锁公司,四川省,成都市,成华区,,
+K00000000002,钥匙2,B0196,B锁公司,四川省,成都市,成华区,,
+K00000000003,钥匙3,C0198,C锁公司,四川省,成都市,武侯区,,

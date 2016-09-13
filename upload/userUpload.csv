@@ -1,0 +1,3 @@
+username,realname,phone,userType,companyGroup,company,companyID,userState,userDescription,userGroup,companyCode,addStationAction,deleteStationAction,queryStationAction,updateStationAction,addStaffAction,deleteStaffAction,queryStaffAction,updateStaffAction,addKeyAction,deleteKeyAction,queryKeyAction,updateKeyAction,doorAuthorization,password,addLockAction,deleteLockAction,queryLockAction,updateLockAction
+圣火令,高明教,13018217601,101,铁塔集团,铁塔集团四川省成都市分公司,10000,正常,自定义,管理员,1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,123456,TRUE,TRUE,TRUE,TRUE
+郭聪,郭聪,13018217603,101,铁塔集团,铁塔集团四川省成都市分公司,10000,正常,自定义,管理员,1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,123456,TRUE,TRUE,TRUE,TRUE
